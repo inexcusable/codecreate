@@ -1,0 +1,8 @@
+D:\myproject\codecreate\codecreate\bin\Debug\codecreate.exe.config
+D:\myproject\codecreate\codecreate\bin\Debug\codecreate.exe
+D:\myproject\codecreate\codecreate\bin\Debug\codecreate.pdb
+D:\myproject\codecreate\codecreate\obj\Debug\codecreate.Form1.resources
+D:\myproject\codecreate\codecreate\obj\Debug\codecreate.Properties.Resources.resources
+D:\myproject\codecreate\codecreate\obj\Debug\codecreate.csproj.GenerateResource.Cache
+D:\myproject\codecreate\codecreate\obj\Debug\codecreate.exe
+D:\myproject\codecreate\codecreate\obj\Debug\codecreate.pdb
